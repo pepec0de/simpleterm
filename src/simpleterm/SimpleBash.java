@@ -1,4 +1,4 @@
-package com.youtube;
+package simpleterm;
 
 import java.io.InputStream;
 import java.io.OutputStream;
