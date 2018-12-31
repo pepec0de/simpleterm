@@ -1,4 +1,4 @@
-package com.youtube;
+package simpleterm;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
