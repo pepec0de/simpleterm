@@ -7,7 +7,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Pepe
+ * @author pepe
  */
 public class SimpleBashGui extends JFrame {
     
