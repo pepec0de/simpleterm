@@ -7,7 +7,7 @@ import javax.swing.*;
 
 /**
  *
- * @author The Glider Life
+ * @author Pepe
  */
 public class SimpleBashGui extends JFrame {
     
